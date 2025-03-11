@@ -463,6 +463,19 @@ a {
 }
 
 
+.skilsaa {
+    position: relative;
+    font-size: 70px;
+    font-weight: 800;
+    text-align: center;
+    border: 3px solid var(--main-color);
+    width: 400px;
+    overflow: hidden;
+    color: black;
+    border-radius: 10px;
+    box-shadow: var(--main-color) 4px 2px 20px 0px;
+}
+
 
 .sk {
     display: flex;
@@ -481,17 +494,6 @@ a {
     .footer .container .icon .rr {
         display: none;
     }
-}
-
-.skilsaa {
-    position: relative;
-    font-size: 70px;
-    font-weight: 800;
-    text-align: center;
-    border: 3px solid var(--secandry-color);
-    width: 400px;
-    overflow: hidden;
-    color: black;
 }
 
 .skilsaa::before {
