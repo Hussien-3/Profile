@@ -62,24 +62,24 @@ span.forEach((e) => {
 
         switch (y) {
                 case "span1":
-                tiltle.children[3].textContent = "we are leon wep templet"
-                tiltle.children[4].textContent = "Leon is the first project css"
+                tiltle.children[3].textContent = "leon templet 1"
+                tiltle.children[4].textContent = "Html - Css"
                 card.children[0].src = "img/Screenshot (271).png"
                 h.href = "https://hussien4554856.github.io/leon/"
                 h1.innerHTML = "leon"
                 break;
 
                 case "span2":
-                tiltle.children[3].textContent = "Kasper Art Templet"
-                tiltle.children[4].textContent = "Kasper Templet by Grampy"
+                tiltle.children[3].textContent = "Kasper templet 2"
+                tiltle.children[4].textContent = "Html - Css"
                 card.children[0].src = "img/Screenshot (272).png"
                 h.href = "https://hussien4554856.github.io/Kasper/"
                 h1.innerHTML = "Kasper"
                 break;
 
                 case "span3":
-                tiltle.children[3].textContent = "get weather by the city or country"
-                tiltle.children[4].textContent = "wather app API"
+                tiltle.children[3].textContent = "get weather by the city"
+                tiltle.children[4].textContent = "Html - Css - Js - Api"
                 card.children[0].src = "img/Screenshot 2025-01-15 005313.png"
                 h.href = "https://hussien4554856.github.io/weather-app/"
                 h1.innerHTML = "WeatherApp"
@@ -87,7 +87,7 @@ span.forEach((e) => {
 
                 case "span4":
                 tiltle.children[3].textContent = "calc app"
-                tiltle.children[4].textContent = "javascript html css"
+                tiltle.children[4].textContent = "Html - Css - Js"
                 card.children[0].src = "img/Screenshot 2025-01-15 011344.png"
                 h.href = "https://hussien4554856.github.io/calc/"
                 h1.innerHTML = "Calculator"
@@ -95,7 +95,7 @@ span.forEach((e) => {
 
                 case "span5":
                 tiltle.children[3].textContent = "Generat password"
-                tiltle.children[4].textContent = "Password Generator Strong"
+                tiltle.children[4].textContent = "Html - Css - Js"
                 card.children[0].src = "img/p.png"
                 h.href = "https://hussien4554856.github.io/password-/"
                 h1.innerHTML = "Calculator"
